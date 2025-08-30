@@ -1,48 +1,44 @@
-#  Lidis Méndez
+# Lidis Méndez  
+**Technical Writer & Data Analyst**
 
-**Technical Writer & Data Analyst** at the intersection of **software**, **data**, and **digital transformation**.  
-I build backend systems (C#/.NET) and write clear, human-first technical content.
-
----
-
-##  Technical Focus
-- **Backend:** C#, ASP.NET Core, Entity Framework Core, PostgreSQL  
-- **APIs & Security:** REST, JWT, Keycloak  
-- **Data & AI:** Python for data analysis, numerical methods; AI fundamentals  
-- **Docs & Collaboration:** Git, GitHub, Markdown, technical writing
+At the intersection of software, data, and documentation, I specialize in turning complex backend systems into clear, developer-first technical content.
 
 ---
 
-##  Featured Projects
-- **RisBackendApi** — Modular Radiology Information System (RIS) backend in C#/.NET + PostgreSQL, secured with JWT + Keycloak.  
-  *(Repo link: https://github.com/LidisM/RisBackendApi)*
+## Technical Focus
+- Backend Development: C#, ASP.NET Core, EF Core, PostgreSQL  
+- APIs & Security: REST, JWT, Keycloak  
+- Data & AI: Python for analysis, numerical methods, AI fundamentals  
+- Documentation & Collaboration: Technical writing, Markdown, Git, GitHub  
 
-- **Digitalmente Human@s** — Editorial project on Artificial Intelligence & humanity (Spanish).  
-  Articles with a critical and constructive lens: https://medium.com/@lidismendez369
+---
+
+## Featured Projects
+- [RisBackendApi](https://github.com/LidisM/RisBackendApi)  
+  Modular Radiology Information System (RIS) backend in C#/.NET + PostgreSQL, secured with JWT + Keycloak.  
+  Includes API documentation, modular architecture, and security workflows.  
+
+- [Digitalmente Human@s](https://medium.com/@lidismendez369)  
+  Editorial project exploring artificial intelligence and humanity with a critical and constructive lens.  
 
 ---
 
 ## Writing
-- Technical explainers, API docs, and essays on AI & digital transformation.  
-- Medium: https://medium.com/@lidismendez369
-
----
-
-## Tech
-C# · .NET · EF Core · PostgreSQL · Python · Git · Markdown
-
----
-
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LidisM&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LidisM&show_icons=true)
+- API documentation, technical explainers, and essays on digital transformation.  
+- Selected work: [Medium Articles](https://medium.com/@lidismendez369)  
 
 ---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/lidis-mendez/  
-- Medium: https://medium.com/@lidismendez369  
-- Email: lidismendez.research@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/lidis-mendez/)  
+- [Medium](https://medium.com/@lidismendez369)  
+- Email: lidismendez.research@gmail.com  
+
+---
+
+## En Español
+Soy Technical Writer & Data Analyst. Desarrollo y documento sistemas backend en C#/.NET y escribo sobre inteligencia artificial y transformación digital.  
+Proyecto editorial: [Digitalmente Human@s](https://medium.com/@lidismendez369).  
 
 ---
 
