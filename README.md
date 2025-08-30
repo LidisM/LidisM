@@ -40,12 +40,4 @@ At the intersection of software, data, and documentation, I specialize in turnin
 Soy Technical Writer & Data Analyst. Desarrollo y documento sistemas backend en C#/.NET y escribo sobre inteligencia artificial y transformación digital.  
 Proyecto editorial: [Digitalmente Human@s](https://medium.com/@lidismendez369).  
 
----
 
-<details>
-<summary> Español</summary>
-
-Soy **Technical Writer & Data Analyst**. Desarrollé y documento sistemas backend en **C#/.NET** y escribo sobre **IA** y **transformación digital** para una audiencia amplia.  
-Proyecto editorial: **Digitalmente Human@s** (artículos en español).
-
-</details>
