@@ -1,4 +1,4 @@
-#  Hi, I'm Lidis Méndez
+#  Lidis Méndez
 
 **Technical Writer & Data Analyst** at the intersection of **software**, **data**, and **digital transformation**.  
 I build backend systems (C#/.NET) and write clear, human-first technical content.
