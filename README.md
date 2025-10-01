@@ -32,7 +32,7 @@ At the intersection of software, data, and documentation, I specialize in turnin
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/lidis-mendez/)  
 - [Medium](https://medium.com/@lidismendez369)  
-- Email: lidismendez.research@gmail.com  
+- Email: lidismabel14@gmail.com  
 
 ---
 
